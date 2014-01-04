@@ -1,0 +1,1 @@
+<main.*>: linkall, package(lablgtk2, lwt, lwt.unix, lwt.glib)
